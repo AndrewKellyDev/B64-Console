@@ -1,0 +1,7 @@
+C:\Users\andre\Desktop\C# Projects\B64 Console\Base64\Base64\bin\Debug\Base64.exe.config
+C:\Users\andre\Desktop\C# Projects\B64 Console\Base64\Base64\bin\Debug\Base64.exe
+C:\Users\andre\Desktop\C# Projects\B64 Console\Base64\Base64\bin\Debug\Base64.pdb
+C:\Users\andre\Desktop\C# Projects\B64 Console\Base64\Base64\obj\Debug\Base64.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\C# Projects\B64 Console\Base64\Base64\obj\Debug\Base64.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\C# Projects\B64 Console\Base64\Base64\obj\Debug\Base64.exe
+C:\Users\andre\Desktop\C# Projects\B64 Console\Base64\Base64\obj\Debug\Base64.pdb
